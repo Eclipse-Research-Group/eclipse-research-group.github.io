@@ -58,6 +58,9 @@ social:
   - service: github
     username: marisusis
     link: https://github.com/marisusis
+  - service: github
+    username: halfwaves
+    link: https://github.com/halfwaves
 
 # Plugins
 gems:
